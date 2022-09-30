@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Practice set 2</string>
+    <string name="team_a">Team A</string>
+    <string name="_0">0</string>
+    <string name="_00">0</string>
+    <string name="yellow_card_scoreA">0</string>
+    <string name="yellow_card_text_A">Yellow Card</string>
+    <string name="red_card_score_a">0</string>
+    <string name="red_card_text_a">Red Card</string>
+    <string name="team_b_text">Team B</string>
+    <string name="team_b_score">0</string>
+    <string name="goal_text_B">Goal</string>
+    <string name="foul_text_B">0</string>
+    <string name="foul_teamB">Foul</string>
+    <string name="yellow_card_score_B">0</string>
+    <string name="yellow_card_text_B">Yellow Card</string>
+    <string name="red_card_score_b">0</string>
+    <string name="red_card_text_B">Red Card</string>
+    <string name="reset">Reset</string>
+    <string name="foul_text_A">Foul</string>
+    <string name="goal_text_A">Goal</string>
+</resources>
